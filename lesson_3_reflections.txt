@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I'd want to use a remote repository when i don't have access to my local work.  It's probably good practice to maintain sync of the
+local repo and github at all times.

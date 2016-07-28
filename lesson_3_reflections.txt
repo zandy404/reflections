@@ -18,3 +18,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 The benefit is that you can work offline with the last known state of the remote stored
 and decide what you'd like to do with it without committing immediately.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I'm not sure how it can be done sanely.  It'd defiitely be much harder.
